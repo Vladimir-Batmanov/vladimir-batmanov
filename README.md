@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 [![Header](https://github.com/Vladimir-Batmanov/vladimir-batmanov/blob/main/assets/giphy.gif)](https://t.me/vbatmanov)
 
-About me
+## I am a student
 
 Languages and Tools
 
