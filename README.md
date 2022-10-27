@@ -37,14 +37,36 @@ Here are some ideas to get you started:
         Hey there
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
-
 </div>
 
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
+---
+
+### :man_technologist: About Me :
 ## I am a student
+- :telescope: I'm studying at the institute as a programmer and data analyst, participating in various educational projects and hackathons.
 
-### Languages and Tools
+- :seedling: Studying technical content.
+
+- :zap: In your spare time solve a problem on GeeksforGeeks and read technical articles.
+
+- :mailbox:How to contact me: [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/vbatmanov)
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;   
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3575a8)
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=SQLite&logoColor=8ed4f4)
