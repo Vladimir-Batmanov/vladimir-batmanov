@@ -23,13 +23,9 @@ Here are some ideas to get you started:
 ### Languages and Tools
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3575a8)
-
 ![Sql](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=SQLite&logoColor=8ed4f4)
-
 ![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=MySql&logoColor=007d7e)
-
 ![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=e56127)
-
 ![Css](https://img.shields.io/badge/-Css-090909?style=for-the-badge&logo=Css3&logoColor=018fd2)
 
 
