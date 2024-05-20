@@ -39,12 +39,6 @@ Here are some ideas to get you started:
     </h1>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
----
-
 ### :man_technologist: About Me :
 ## I am a student
 - :telescope: I'm studying at the institute as a programmer and data analyst, participating in various educational projects and hackathons.
